@@ -11,7 +11,7 @@ namespace excrsize2
         static void Main(string[] args)
         {
             shap s1 = new shap();
-            s1.Gov = 5;
+            s1.Gov = 10;
             s1.Rad = 8;
             s1.Roch = 6;
             ((ICircleable)s1).area();
