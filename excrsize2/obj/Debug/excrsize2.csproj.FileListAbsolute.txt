@@ -1,0 +1,7 @@
+T:\רוטמן רבקי\יד\c#\excrsize2\excrsize2\obj\Debug\excrsize2.csprojAssemblyReference.cache
+T:\רוטמן רבקי\יד\c#\excrsize2\excrsize2\obj\Debug\excrsize2.csproj.CoreCompileInputs.cache
+T:\רוטמן רבקי\יד\c#\excrsize2\excrsize2\bin\Debug\excrsize2.exe.config
+T:\רוטמן רבקי\יד\c#\excrsize2\excrsize2\bin\Debug\excrsize2.exe
+T:\רוטמן רבקי\יד\c#\excrsize2\excrsize2\bin\Debug\excrsize2.pdb
+T:\רוטמן רבקי\יד\c#\excrsize2\excrsize2\obj\Debug\excrsize2.exe
+T:\רוטמן רבקי\יד\c#\excrsize2\excrsize2\obj\Debug\excrsize2.pdb
